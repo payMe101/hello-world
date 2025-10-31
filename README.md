@@ -1,2 +1,2 @@
 # hello-world
-payMe Token is a fungible consumer token created to provide liquidity for the payMe Trivia Quiz Console - a non-betting computer based test (CBT) empowerment game platform, designed to encourage intellectual enhancement and use as cognitive behavioural therapy for gambling addicts.
+payMe Token is an ecosystem token created to provide liquidity for the PayMe Quiz Community - a non-betting online knowledge quantifying test and empowerment platform, designed to tackle gambling addiction through cognitive therapautic contest.
